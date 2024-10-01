@@ -1297,6 +1297,8 @@ ul {
   margin: 2rem 0; 
   text-align: center;
   padding: 2rem 0;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .contact-info span{
